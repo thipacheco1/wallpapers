@@ -4,8 +4,8 @@ Wallpapers animados prontos para instalar no [Lively Wallpaper](https://github.c
 
 ## Downloads
 
-- [INKBOUND â€” Batalha Infinita](./INKBOUND-Lively-v1.0.0.zip)
-- [ÃšLTIMA ZONA â€” Ecossistema Zumbi v1.0.1](./ULTIMA-ZONA-Lively-v1.0.1.zip)
+- [THE ONE BRAWLER (INKBOUND) — Batalha Infinita](./THE-ONE-BRAWLER-Lively.zip)
+- [ÚLTIMA ZONA — Ecossistema Zumbi](./ULTIMA-ZONA-Lively.zip)
 
 ## Como instalar
 
@@ -14,8 +14,8 @@ Wallpapers animados prontos para instalar no [Lively Wallpaper](https://github.c
 3. Arraste o ZIP para a janela do Lively ou use **Adicionar wallpaper**.
 4. Selecione o wallpaper na biblioteca.
 
-Os pacotes publicados contÃªm o cÃ³digo de execuÃ§Ã£o minificado e ofuscado, as capas e os metadados necessÃ¡rios para o Lively.
+Os pacotes publicados contêm o código de execução minificado e ofuscado, as capas e os metadados necessários para o Lively.
 
-### AtualizaÃ§Ã£o do ÃšLTIMA ZONA v1.0.1
+### Atualizações recentes
 
-Corrige o crescimento de memÃ³ria que podia encerrar o wallpaper no Lively apÃ³s algum tempo de execuÃ§Ã£o.
+Corrige o crescimento de memória em arquivos de longa duração.
